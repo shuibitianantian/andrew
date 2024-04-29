@@ -1,7 +1,7 @@
 ---
 author: Andrew Xia
-pubDatetime: 2024-04-29T14:44:04.400Z
-modDatetime: 2024-04-29T14:44:04.400Z
+pubDatetime: 2024-01-20T14:44:04.400Z
+modDatetime: 2024-01-20T14:44:04.400Z
 title: A simple introduction about html and js
 slug: A simple introduction about html and js
 featured: true
